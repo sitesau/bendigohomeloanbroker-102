@@ -1,0 +1,22 @@
+{
+  "wheel_id": 93,
+  "slug": "bendigohomeloanbroker-102",
+  "project": "home-loan-broker-bendigo-costs-b-102",
+  "parent_t1_ref": "bendigohomeloanbroker-001",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "home loan broker bendigo costs",
+  "intended_url": "https://home-loan-broker-bendigo-costs-b-102.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-bendigo-b-150/index.html",
+      "anchor": "home loan broker bendigo",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-bendigo-b-150/index.html",
+      "anchor": "home loan broker bendigo",
+      "rel": "follow"
+    }
+  ]
+}
